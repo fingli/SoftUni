@@ -1,0 +1,27 @@
+n_number = int(input())
+
+p1 = 0
+p2 = 0
+p3 = 0
+p4 = 0
+p5 = 0
+
+for i in range(n_number):
+    nums = int(input())
+
+    if nums < 200:
+        p1 += 1
+    elif 200 <= nums < 400:
+        p2 += 1
+    elif 400 <= nums < 600:
+        p3 += 1
+    elif 600 <= nums < 800:
+        p4 += 1
+    elif nums >= 800:
+        p5 += 1
+
+print(f"{p1 / n_number * 100:.2f}%")
+print(f"{p2 / n_number * 100:.2f}%")
+print(f"{p3 / n_number * 100:.2f}%")
+print(f"{p4 / n_number * 100:.2f}%")
+print(f"{p5 / n_number * 100:.2f}%")
