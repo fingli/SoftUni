@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrapezoidArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0839c891ea0c3e52b492c62cd0a4fe82a039f3c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrapezoidArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrapezoidArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

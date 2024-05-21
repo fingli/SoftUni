@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RectangleArea
-build_property.ProjectDir = C:\Users\yulyo\source\repos\05 Simple Commands and Visual Studio - Exercise\RectangleArea\
+build_property.ProjectDir = C:\Users\yulyo\Documents\GitHub\SoftUni\Programming Fundamentals and Unit Testing - MAY 2024\05 Simple Commands and Visual Studio - Exercise\RectangleArea\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
