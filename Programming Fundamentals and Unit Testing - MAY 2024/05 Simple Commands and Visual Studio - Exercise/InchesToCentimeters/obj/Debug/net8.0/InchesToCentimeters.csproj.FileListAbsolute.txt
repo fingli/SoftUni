@@ -1,0 +1,14 @@
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\bin\Debug\net8.0\InchesToCentimeters.exe
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\bin\Debug\net8.0\InchesToCentimeters.deps.json
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\bin\Debug\net8.0\InchesToCentimeters.runtimeconfig.json
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\bin\Debug\net8.0\InchesToCentimeters.dll
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\bin\Debug\net8.0\InchesToCentimeters.pdb
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\InchesToCentimeters.AssemblyInfo.cs
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\InchesToCentimeters.dll
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\refint\InchesToCentimeters.dll
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\InchesToCentimeters.pdb
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\InchesToCentimeters.genruntimeconfig.cache
+C:\Users\yulyo\source\repos\5.Exercise\InchesToCentimeters\obj\Debug\net8.0\ref\InchesToCentimeters.dll

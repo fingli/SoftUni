@@ -1,0 +1,14 @@
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\bin\Debug\net8.0\TrapezoidArea.exe
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\bin\Debug\net8.0\TrapezoidArea.deps.json
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\bin\Debug\net8.0\TrapezoidArea.runtimeconfig.json
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\bin\Debug\net8.0\TrapezoidArea.dll
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\bin\Debug\net8.0\TrapezoidArea.pdb
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\TrapezoidArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\TrapezoidArea.AssemblyInfoInputs.cache
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\TrapezoidArea.AssemblyInfo.cs
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\TrapezoidArea.csproj.CoreCompileInputs.cache
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\TrapezoidArea.dll
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\refint\TrapezoidArea.dll
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\TrapezoidArea.pdb
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\TrapezoidArea.genruntimeconfig.cache
+C:\Users\yulyo\source\repos\5.Exercise\TrapezoidArea\obj\Debug\net8.0\ref\TrapezoidArea.dll
