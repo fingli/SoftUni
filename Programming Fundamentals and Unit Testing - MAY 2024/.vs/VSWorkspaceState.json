@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\05 Simple Commands and Visual Studio - Exercise"
+    "\\05 Simple Commands and Visual Studio - Exercise",
+    "\\05 Simple Commands and Visual Studio - Exercise\\InchesToCentimeters",
+    "\\06 Data Types and Variables - Lab",
+    "\\06 Data Types and Variables - Lab\\1.DaysToMinutes"
   ],
-  "SelectedNode": "\\05 Simple Commands and Visual Studio - Exercise\\05 Exercise.sln",
   "PreviewInSolutionExplorer": false
 }

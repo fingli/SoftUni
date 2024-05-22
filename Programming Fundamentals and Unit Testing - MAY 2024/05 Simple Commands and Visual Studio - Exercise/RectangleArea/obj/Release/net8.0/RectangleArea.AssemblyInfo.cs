@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RectangleArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0839c891ea0c3e52b492c62cd0a4fe82a039f3c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9a8d4e720290a61798fb3ab32b4877e3b7e5d64")]
 [assembly: System.Reflection.AssemblyProductAttribute("RectangleArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RectangleArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

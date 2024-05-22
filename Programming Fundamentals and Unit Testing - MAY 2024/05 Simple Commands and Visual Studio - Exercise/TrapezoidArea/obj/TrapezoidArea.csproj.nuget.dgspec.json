@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\TrapezoidArea\\TrapezoidArea.csproj": {}
+    "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\TrapezoidArea\\TrapezoidArea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\TrapezoidArea\\TrapezoidArea.csproj": {
+    "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\TrapezoidArea\\TrapezoidArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\TrapezoidArea\\TrapezoidArea.csproj",
+        "projectUniqueName": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\TrapezoidArea\\TrapezoidArea.csproj",
         "projectName": "TrapezoidArea",
-        "projectPath": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\TrapezoidArea\\TrapezoidArea.csproj",
+        "projectPath": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\TrapezoidArea\\TrapezoidArea.csproj",
         "packagesPath": "C:\\Users\\yulyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\TrapezoidArea\\obj\\",
+        "outputPath": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\TrapezoidArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yulyo\\AppData\\Roaming\\NuGet\\NuGet.Config",

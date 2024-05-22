@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\InchesToCentimeters\\InchesToCentimeters.csproj",
+      "projectUniqueName": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\InchesToCentimeters\\InchesToCentimeters.csproj",
       "projectName": "InchesToCentimeters",
-      "projectPath": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\InchesToCentimeters\\InchesToCentimeters.csproj",
+      "projectPath": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\InchesToCentimeters\\InchesToCentimeters.csproj",
       "packagesPath": "C:\\Users\\yulyo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\InchesToCentimeters\\obj\\",
+      "outputPath": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\InchesToCentimeters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yulyo\\AppData\\Roaming\\NuGet\\NuGet.Config",

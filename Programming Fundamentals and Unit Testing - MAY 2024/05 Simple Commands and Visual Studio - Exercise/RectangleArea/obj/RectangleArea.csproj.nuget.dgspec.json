@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\RectangleArea\\RectangleArea.csproj": {}
+    "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\RectangleArea\\RectangleArea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\RectangleArea\\RectangleArea.csproj": {
+    "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\RectangleArea\\RectangleArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\RectangleArea\\RectangleArea.csproj",
+        "projectUniqueName": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\RectangleArea\\RectangleArea.csproj",
         "projectName": "RectangleArea",
-        "projectPath": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\RectangleArea\\RectangleArea.csproj",
+        "projectPath": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\RectangleArea\\RectangleArea.csproj",
         "packagesPath": "C:\\Users\\yulyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yulyo\\source\\repos\\5.Exercise\\RectangleArea\\obj\\",
+        "outputPath": "C:\\Users\\yulyo\\Documents\\GitHub\\SoftUni\\Programming Fundamentals and Unit Testing - MAY 2024\\05 Simple Commands and Visual Studio - Exercise\\RectangleArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yulyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
